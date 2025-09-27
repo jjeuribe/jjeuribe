@@ -1,5 +1,6 @@
+# Hello, I'm Javier
 
-![Javier Uribe Banner](image.png)
+![Welcome Banner](image-1.png)
 
 ## About Me
 
@@ -7,8 +8,9 @@
 
 ## Projects
 
-## Certifications
+## Articles / Write-ups
 
+## Certifications
 <!--
 **jjeuribe/jjeuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
