@@ -1,4 +1,13 @@
-## Hi there 👋
+
+![Javier Uribe Banner](image.png)
+
+## About Me
+
+## Skills
+
+## Projects
+
+## Certifications
 
 <!--
 **jjeuribe/jjeuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
