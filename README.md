@@ -35,6 +35,12 @@
     </td>
     <td>TCP flag inspection, Recognizing Scan Behavior Patterns, Spotting Anomalous Traffic volumes, MAC OUI/vendor resolution, Passive OS Fingerprinting (TTL & TCP window heuristics), Wireshark.</td>
   </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-windows-event-logs-and-finding-evil-skills-assessment-f289d9620f4b">Windows Forensics: Detecting Threat Actor Techniques via Windows Event Logs</a>
+    </td>
+    <td>Sysmon/Event Viewer Forensics, XPath filtering, Detecting DLL Hijacking, Process Injection & LSASS Credential Dumps, Security-log timeline correlation.</td>
+  </tr>
 </table>
 
 ## Articles / Write-ups
