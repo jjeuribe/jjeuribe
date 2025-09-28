@@ -56,6 +56,7 @@
 <ul>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner Essentials — Getting to know AWS</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-understanding-computing-in-the-cloud-646d8d02ad61">Cloud Practitioner Essentials — Understanding Computing in the Cloud</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-networking-70639c23d8a6">Cloud Practitioner Essentials — Network</a></li>
 </ul>
 
 ## Certifications
