@@ -54,7 +54,7 @@
 <h2>Articles / Write-ups</h2>
 
 <ul>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner — Getting to know AWS</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner Essentials — Getting to know AWS</a></li>
 </ul>
 
 ## Certifications
