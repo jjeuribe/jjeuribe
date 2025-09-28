@@ -41,6 +41,14 @@
     </td>
     <td>Sysmon/Event Viewer Forensics, XPath filtering, Detecting DLL Hijacking, Process Injection & LSASS Credential Dumps, Security-log timeline correlation.</td>
   </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-analyzing-windows-event-logs-en-masse-f418d7c83865">Automating Windows Event-log Analysis with PowerShell</a>
+    </td>
+    <td>
+      PowerShell scripting for forensic automation using Get-WinEvent, Get-ChildItem, Where-Object, and Select-Object, Identifying malicious UNC paths. 
+    </td>
+  </tr>
 </table>
 
 ## Articles / Write-ups
