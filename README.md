@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-<h2>Projects & Skills</h2>
+<h2>Cybersecurity Projects & Skills</h2>
 <table>
   <tr>
     <th>Project</th>
