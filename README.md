@@ -62,7 +62,34 @@
   <li><a target="_blank" href="https://medium.com/@jje.uribe/understanding-delta-time-in-wireshark-058e49aabf80">Understanding Delta Time in Wireshark</a></li>
 </ul>
 
-## Certifications
+<h2>Certifications</h2>
+<a target="_blank" href="https://www.credly.com/badges/39d182a3-1927-4954-8a78-e6f158e82b93/public_url">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ISC2%20Candidate-%2341F091?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.credly.com/badges/8e15f3fc-4e39-44a4-93f3-f6224939790a/public_url">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-%234190F0?style=for-the-badge">
+</a>
+<a target="_blank" href="https://app.letsdefend.io/certificate/show/4d7297db-618a-49ee-be5c-993635d69897">
+  <img alt="Static Badge" src="https://img.shields.io/badge/lets%20defend%20SOC%20Analyst-%23F09B41?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.credly.com/badges/a5bd8cc4-2faa-481a-b628-b08ddc8bae32/public_url">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python%20Professional-%2341D0F0?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/56XBUQNMW7LA">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Infosec%20Python%20for%20Cybersecurity%20Specialization-%23F041B9?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/PM80SLEO8ZH3">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Programming%20with%20Java-%23414AF0?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/Z9KLVFNA7E95">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Infosec%20Advanced%20Python%20for%20Cybersecurity-%23F05841?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.credly.com/badges/eb6edec1-190e-4a8c-b18d-4f4a5afd0176/public_url">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner-%23D2D952?style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.credly.com/badges/1394a8e2-cbff-404a-be8f-2c1f3c5c2a5a/public_url">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20IA%20Essentials-%23DBAD2E?style=for-the-badge">
+</a>
 <!--
 **jjeuribe/jjeuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
