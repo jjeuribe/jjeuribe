@@ -60,6 +60,7 @@
   <li><a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-introduction-to-windows-command-line-skill-assessment-walkthrough-daa57d6e716d">HackTheBox — Introduction to Windows Command Line, Skill Assessment Walkthrough</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/cooking-the-proxy-what-the-heck-is-a-proxy-server-e180078ba183">Cooking the Proxy — What the heck is a Proxy Server</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/understanding-delta-time-in-wireshark-058e49aabf80">Understanding Delta Time in Wireshark</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-block-storage-with-aws-instance-stores-and-ebs-f5db0b650cf9">Cloud Practitioner — Block Storage with AWS Instance Stores and EBS</a></li>
 </ul>
 
 <h2>Certifications</h2>
