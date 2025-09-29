@@ -91,6 +91,9 @@
 <a target="_blank" href="https://www.credly.com/badges/1394a8e2-cbff-404a-be8f-2c1f3c5c2a5a/public_url">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20IA%20Essentials-%23DBAD2E?style=for-the-badge">
 </a>
+<a target="_blank" href="https://raw.githubusercontent.com/jjeuribe/jjeuribe/refs/heads/main/sustainable-testing-with-typescript-cert.png">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Sustainable%20Testing%20with%20Typescript-%23B2D9C0?style=for-the-badge">
+</a>
 <!--
 **jjeuribe/jjeuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
