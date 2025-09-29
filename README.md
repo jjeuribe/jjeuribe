@@ -54,9 +54,9 @@
 <h2>Articles / Write-ups</h2>
 
 <ul>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner Essentials — Getting to know AWS</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-understanding-computing-in-the-cloud-646d8d02ad61">Cloud Practitioner Essentials — Understanding Computing in the Cloud</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-networking-70639c23d8a6">Cloud Practitioner Essentials — Network</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner — Getting to know AWS</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-understanding-computing-in-the-cloud-646d8d02ad61">Cloud Practitioner — Understanding Computing in the Cloud</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-networking-70639c23d8a6">Cloud Practitioner — Network</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-introduction-to-windows-command-line-skill-assessment-walkthrough-daa57d6e716d">HackTheBox — Introduction to Windows Command Line, Skill Assessment Walkthrough</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/cooking-the-proxy-what-the-heck-is-a-proxy-server-e180078ba183">Cooking the Proxy — What the heck is a Proxy Server</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/understanding-delta-time-in-wireshark-058e49aabf80">Understanding Delta Time in Wireshark</a></li>
