@@ -12,21 +12,17 @@
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-http-basic-auth-walkthrough-7cbdf7e0293e">Investigating HTTP Basic Auth with Wireshark</a>
+      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-analyzing-windows-event-logs-en-masse-f418d7c83865">Automating Windows Event-log Analysis with PowerShell</a>
     </td>
-    <td>Network Traffic Analysis, Packet Inspection, HTTP Authentication, Wireshark.</td>
+    <td>
+      PowerShell scripting for forensic automation using Get-WinEvent, Get-ChildItem, Where-Object, and Select-Object, Identifying malicious UNC paths. 
+    </td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-investigate-web-attack-walkthrough-a53773f43c10">Tracing a Web Attack: Automated Scanning, Command Injection, and Persistence</a>
+      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-windows-event-logs-and-finding-evil-skills-assessment-f289d9620f4b">Windows Forensics: Detecting Threat Actor Techniques via Windows Event Logs</a>
     </td>
-    <td>Threat Detection, Incident Investigation, Web Exploitation, Manual Log Review & Anomaly Detection.</td>
-  </tr>
-  <tr>
-    <td>
-      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-brute-force-attack-walkthrough-1ba13a40b116">Uncovering a Brute-force Attack with Wireshark</a>
-    </td>
-    <td>Network Traffic Analysis, Packet Inspection, SSH Log Analysis, RDP Traffic Analysis, CSV/text export + shell parsing (grep/cut/sort/wc), MITRE ATT&CK mapping, Wireshark.</td>
+    <td>Sysmon/Event Viewer Forensics, XPath filtering, Detecting DLL Hijacking, Process Injection & LSASS Credential Dumps, Security-log timeline correlation.</td>
   </tr>
   <tr>
     <td>
@@ -37,30 +33,50 @@
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-windows-event-logs-and-finding-evil-skills-assessment-f289d9620f4b">Windows Forensics: Detecting Threat Actor Techniques via Windows Event Logs</a>
+      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-brute-force-attack-walkthrough-1ba13a40b116">Uncovering a Brute-force Attack with Wireshark</a>
     </td>
-    <td>Sysmon/Event Viewer Forensics, XPath filtering, Detecting DLL Hijacking, Process Injection & LSASS Credential Dumps, Security-log timeline correlation.</td>
+    <td>Network Traffic Analysis, Packet Inspection, SSH Log Analysis, RDP Traffic Analysis, CSV/text export + shell parsing (grep/cut/sort/wc), MITRE ATT&CK mapping, Wireshark.</td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-analyzing-windows-event-logs-en-masse-f418d7c83865">Automating Windows Event-log Analysis with PowerShell</a>
+      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-investigate-web-attack-walkthrough-a53773f43c10">Tracing a Web Attack: Automated Scanning, Command Injection, and Persistence</a>
     </td>
+    <td>Threat Detection, Incident Investigation, Web Exploitation, Manual Log Review & Anomaly Detection.</td>
+  </tr>
+  <tr>
     <td>
-      PowerShell scripting for forensic automation using Get-WinEvent, Get-ChildItem, Where-Object, and Select-Object, Identifying malicious UNC paths. 
+      <a target="_blank" href="https://medium.com/@jje.uribe/letsdefend-http-basic-auth-walkthrough-7cbdf7e0293e">Investigating HTTP Basic Auth with Wireshark</a>
     </td>
+    <td>Network Traffic Analysis, Packet Inspection, HTTP Authentication, Wireshark.</td>
   </tr>
 </table>
 
 <h2>Articles / Write-ups</h2>
 
 <ul>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner — Getting to know AWS</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-understanding-computing-in-the-cloud-646d8d02ad61">Cloud Practitioner — Understanding Computing in the Cloud</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-networking-70639c23d8a6">Cloud Practitioner — Network</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-introduction-to-windows-command-line-skill-assessment-walkthrough-daa57d6e716d">HackTheBox — Introduction to Windows Command Line, Skill Assessment Walkthrough</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cooking-the-proxy-what-the-heck-is-a-proxy-server-e180078ba183">Cooking the Proxy — What the heck is a Proxy Server</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/understanding-delta-time-in-wireshark-058e49aabf80">Understanding Delta Time in Wireshark</a></li>
-  <li><a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-block-storage-with-aws-instance-stores-and-ebs-f5db0b650cf9">Cloud Practitioner — Block Storage with AWS Instance Stores and EBS</a></li>
+  <li><a target="_blank" href="https://medium.com/@jje.uribe/cooking-the-proxy-what-the-heck-is-a-proxy-server-e180078ba183">Cooking the Proxy — What the heck is a Proxy Server</a></li>
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/hackthebox-introduction-to-windows-command-line-skill-assessment-walkthrough-daa57d6e716d">HackTheBox — Introduction to Windows Command Line, Skill Assessment Walkthrough</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-block-storage-with-aws-instance-stores-and-ebs-f5db0b650cf9">Cloud Practitioner — Block Storage with AWS Instance Stores and EBS</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/what-on-earth-is-flat-in-javascript-6e502e024188">What on earth is flat in Javascript?</a>
+  </li>  
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-networking-70639c23d8a6">Cloud Practitioner — Network</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-aws-global-infrastructure-cbdde8e36a35">Cloud Practitioner — AWS Global Infrastructure</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/cloud-practitioner-essentials-understanding-computing-in-the-cloud-646d8d02ad61">Cloud Practitioner — Understanding Computing in the Cloud</a>
+  </li>  
+  <li>
+    <a target="_blank" href="https://medium.com/@jje.uribe/getting-to-know-aws-2ed080849ac9">Cloud Practitioner — Getting to know AWS</a>
+  </li>
 </ul>
 
 <h2>Certifications</h2>
