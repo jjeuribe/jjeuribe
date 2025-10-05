@@ -51,8 +51,23 @@
   </tr>
 </table>
 
-<h2>Articles / Write-ups</h2>
+<h2>Building for the Web</h2>
+<table>
+  <tr>
+    <th>Project / URL</th>
+    <th>Technologies Used</th>
+  </tr>
+    <tr>
+    <td><a href="https://lazarza.com.mx" target="_blank">La Zarza</a></td>
+    <td>HTML, CSS, Angular, Typescript, RxJS, Angular Universal, Reactive Forms</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.contactomundial.org/" target="_blank">Contacto Mundial</a></td>
+    <td>HTML, CSS, Javascript, Bootstrap, Node.js, Express</td>
+  </tr>
+</table>
 
+<h2>Articles / Write-ups</h2>
 <ul>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/understanding-delta-time-in-wireshark-058e49aabf80">Understanding Delta Time in Wireshark</a></li>
   <li><a target="_blank" href="https://medium.com/@jje.uribe/cooking-the-proxy-what-the-heck-is-a-proxy-server-e180078ba183">Cooking the Proxy — What the heck is a Proxy Server</a></li>
