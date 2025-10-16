@@ -59,11 +59,26 @@
   </tr>
     <tr>
     <td><a href="https://lazarza.com.mx" target="_blank">La Zarza</a></td>
-    <td>HTML, CSS, Angular, Typescript, RxJS, Angular Universal, Reactive Forms</td>
+    <td>
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23F54927?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%2327A3F5?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23F5276C?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%230057D1?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/RxJS-%23C300D1?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Angular%20Universal-%23DE0046?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Reactive%20Forms-%239FDE00?style=flat">
+    </td>
   </tr>
   <tr>
     <td><a href="http://www.contactomundial.org/" target="_blank">Contacto Mundial</a></td>
-    <td>HTML, CSS, Javascript, Bootstrap, Node.js, Express</td>
+    <td>
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23F54927?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%2327A3F5?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F5E40C?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%23532FF5?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%2300A323?style=flat">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Express%20JS-%23A35A00?style=flat">
+    </td>
   </tr>
 </table>
 
